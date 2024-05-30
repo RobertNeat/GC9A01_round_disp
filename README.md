@@ -14,7 +14,7 @@ Pin setup is as follows (can be changed in UserSetup.h):
   SCL (clock) ------- GPIO_32
 ```
 
-Display properties:
+### Display properties:
 
 - Screen technology: TFT LCD
 - Interface: SPI
@@ -23,3 +23,7 @@ Display properties:
 - Size: 1.28 inch
 - Brightness: 400 CD/m2
 - Logic voltage: 3.3 V
+
+### ESP 32 pinout:
+
+![ESP32-DEV-CP2102-C-003](https://github.com/RobertNeat/GC9A01_round_disp/assets/47086490/bae3be4e-c9f3-493d-93c9-11ee169ad772)
